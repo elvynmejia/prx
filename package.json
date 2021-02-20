@@ -15,5 +15,5 @@
     "morgan": "^1.10.0",
     "package.json": "^2.0.1",
     "http-proxy-middleware": "^1.0.6"
-  },
+  }
 }
